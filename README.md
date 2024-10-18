@@ -1,5 +1,5 @@
 1.Create a new process by invoking the appropriate system call. Get the process identifier of the currently running process and its respective parent using system calls and display the same
-![1) Create a new process by invoking the appropriate system call  Get the process identifier of the currently running process and its respective parent using system calls and display the same u](https://github.com/user-attachments/assets/91800b2c-2ec2-43db-9196-d3782839d4d2)
+ ![1 Create a new process by invoking the appropriate system call  Get the process identifier of the currently running process and its respective parent using system calls and display the same ](https://github.com/user-attachments/assets/d893bf18-bdc0-4830-84ae-ea361f747556)
 2.Identify the system calls to copy the content of one file to another and illustrate the same using a C program.
 ![2 Identify the system calls to copy the content of one file to another and illustrate the same using a C program](https://github.com/user-attachments/assets/8364de96-80da-4aca-9b48-56dc51f988b8)
 3.Design a CPU scheduling program with C using First Come First Served technique with the following considerations.
